@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
   Widget _buildText() {
     return Text(
       'Giá trị: ${_myObject.value}',
-      style: const TextStyle(fontSize: 20),
+      style: const TextStyle(fontSize: 21),
     );
   }
 
